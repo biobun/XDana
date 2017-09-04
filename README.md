@@ -1,2 +1,2 @@
 # XDana
-Application for convert from text to XBRL
+Application for convert from text to XBRL using Java
